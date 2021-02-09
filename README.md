@@ -400,4 +400,4 @@ Publish the website in the given URL.
 
 ![output](./static/img/report4.jpg)
 ## RESULT:
-Thus a responsive website is designed for the chip manufacturing company with two break points and is hosted in the URL http://kavya.student.saveetha.in:8000/. HTML code is validated.
+Thus a responsive website is designed for the chip manufacturing company with two break points and is hosted in the URL http://kavya.student.saveetha.in:8000/productsresponsive/. HTML code is validated.
